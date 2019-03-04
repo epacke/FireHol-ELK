@@ -1,0 +1,19 @@
+{
+  "name": "firehol-elk",
+  "version": "1.0.0",
+  "description": "Downloads IP lists from Firehol, converts them to JSON and adds them to Elastic Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epacke/FireHol-ELK.git"
+  },
+  "author": "Patrik Jonsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epacke/FireHol-ELK/issues"
+  },
+  "homepage": "https://github.com/epacke/FireHol-ELK#readme"
+}
