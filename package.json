@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/epacke/FireHol-ELK/issues"
   },
-  "homepage": "https://github.com/epacke/FireHol-ELK#readme"
+  "homepage": "https://github.com/epacke/FireHol-ELK#readme",
+  "dependencies": {
+    "better-queue": "^3.8.10",
+    "elasticsearch": "^15.4.1",
+    "fs": "0.0.1-security",
+    "request": "^2.88.0"
+  }
 }
