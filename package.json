@@ -18,7 +18,7 @@
   "homepage": "https://github.com/epacke/FireHol-ELK#readme",
   "dependencies": {
     "better-queue": "^3.8.10",
-    "elasticsearch": "^15.4.1",
+    "elasticsearch": "^15.5.0",
     "fs": "0.0.1-security",
     "request": "^2.88.0"
   }
